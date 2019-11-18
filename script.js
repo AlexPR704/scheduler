@@ -1,7 +1,7 @@
 // The current day will be displayed.
 window.onload = function () {
     var today = new Date();
-    date = moment().format('LL');
+    date = moment().format('LLL');
     // var months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
     // var monthNum = today.getMonth();
     // currentMonth = months[monthNum];
