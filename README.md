@@ -8,9 +8,9 @@ The application will show regular business hours from 9AM-5PM and in each time s
 
 
 
-![screenshot of the app](scheduler/images/Screen Shot 2019-11-18 at 7.38.02 PM.png)
+![screenshot of the app](scheduler/images/image1.png)
 
-![screenshot of the code](scheduler/images/Screen Shot 2019-11-18 at 7.38.54 PM.png)
+![screenshot of the code](scheduler/images/image2.png)
 
 
 ## Business Context
@@ -26,8 +26,8 @@ Special credit goes to the team of instructors. Without their help; this portfol
 
 ## Submission on BCS
 
-* 
-* 
+* https://github.com/AlexPR704/scheduler.git
+* https://alexpr704.github.io/scheduler/
 
 ## License
 MIT License
