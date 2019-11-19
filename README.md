@@ -8,9 +8,9 @@ The application will show regular business hours from 9AM-5PM and in each time s
 
 
 
-![screenshot of the app](scheduler/images/image1.png)
+![screenshot of the app](images/image1.png)
 
-![screenshot of the code](scheduler/images/image2.png)
+![screenshot of the code](images/image2.png)
 
 
 ## Business Context
