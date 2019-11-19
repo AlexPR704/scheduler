@@ -2,6 +2,10 @@
 
 
 ## Description
+I have created a simple calendar application that allows the user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+The application will show regular business hours from 9AM-5PM and in each time slot represents one hour.
+
+
 
 
 ![screenshot of the app]()
@@ -10,13 +14,13 @@
 
 
 ## Business Context
-
+A daily planner allows employees to see their day at a glance, schedule time effectively, and improve productivity. We have all been there before missing out on small tasks to complete each day and finding out too late it is the worse. This app will be able to help you out to never miss out.
 
 
 
 
 ## Credits
-One website that I happen to use quite a bit to execute this portfolio is https://www.w3schools.com/html/. Your more than welcome to use them. Also https://www.freecodecamp.org/ has alot of material that helped out.
+One website that I happen to use quite a bit to execute this portfolio is https://www.w3schools.com/html/. Your more than welcome to use them. Also https://www.freecodecamp.org/ has alot of material that helped out. https://getbootstrap.com/ Really helped me alot as well.
 I also would like to give credit to all the study groups that we had this week. They were able to show me more than one pair of eyes is able to break down a problem.
 Special credit goes to the team of instructors. Without their help; this portfolio wouldn't have been possible.
 
