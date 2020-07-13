@@ -1,4 +1,4 @@
-#  UNit 5 Day scheduler
+## Day scheduler
 
 
 ## Description
@@ -21,8 +21,6 @@ A daily planner allows employees to see their day at a glance, schedule time eff
 
 ## Credits
 One website that I happen to use quite a bit to execute this portfolio is https://www.w3schools.com/html/. Your more than welcome to use them. Also https://www.freecodecamp.org/ has alot of material that helped out. https://getbootstrap.com/ Really helped me alot as well.
-I also would like to give credit to all the study groups that we had this week. They were able to show me more than one pair of eyes is able to break down a problem.
-Special credit goes to the team of instructors. Without their help; this portfolio wouldn't have been possible.
 
 ## Submission on BCS
 
